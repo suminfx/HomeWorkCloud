@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWorkCloud</string>
+    <array name="sex_values">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </array>
+</resources>
